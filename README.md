@@ -1,4 +1,4 @@
-# Climate Data Visualization App
+# NT Site Matching App
 
 This Streamlit application was developed at the Joint Centre of Excellence in Environmental Intelligence of the University of Exeter to demonstrate the potential of matching National Trust sites according to their climate risks and site features. The climate risks were compiled using UKCP18 projections produced by the Met Office. The app allows users to select a National Trust site and fine-tune the matching according to their own preferences.
 
